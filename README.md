@@ -1,1 +1,1 @@
-0x16. C - Simple Shell by Olasubomi and Peter
+0x16. C - Simple Shell by keed and alex wambua
